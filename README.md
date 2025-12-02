@@ -24,12 +24,10 @@ Aqui você encontra:
 
 - **Meus interesses profissionais**  
 - **Projeto 1**  
-- **Formas de estudo e materiais úteis**  
+- **Formas de entrar em contato comigo**  
 
 ---
 
 ## 👤 Autor
 **Arthur Rodrigues**
 
-Obrigado por visitar meu portfólio! 😄  
-Se quiser personalizar mais alguma parte do README, só pedir.
